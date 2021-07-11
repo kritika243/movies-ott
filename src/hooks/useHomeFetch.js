@@ -31,10 +31,11 @@ export const useHomeFetch = () => {
     setLoading(false)
   }
 
-  // initial render - renders only once as dependency array is empty []
+  // initial render plus search ( search term changes)
   useEffect(() => {
-    fetchMovies(1)
-  }, [])
+    setState(initialState)
+    fetchMovies(1, searchTerm)
+  }, [searchTerm])
 
-  return { state, loading, error, setSearchTerm }
+  return { state, loading, error, searchTerm, setSearchTerm }
 }
