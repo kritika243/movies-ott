@@ -33,7 +33,7 @@ export const useMovieFetch = (movieId) => {
     const sessionState = isPersistedState(movieId)
 
     if (sessionState) {
-      setState(sessionStorage)
+      setState(sessionState)
       setLoading(false)
       return
     }
