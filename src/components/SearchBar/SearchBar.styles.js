@@ -11,7 +11,7 @@ export const Wrapper = styled.div`
 export const Content = styled.div`
   position: relative;
   max-width: var(--maxWidth);
-  width: 100%;
+  width: 75%;
   height: 55px;
   background: var(--medGrey);
   margin: 0 auto;
