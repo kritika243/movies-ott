@@ -1,4 +1,4 @@
-# Movies OTT- React Movies✨[Live](https://distracted-bell-ebece1.netlify.app/)
+# Movies OTT- React Movies✨[Checkout Live](https://distracted-bell-ebece1.netlify.app/)
 
 A platform where you can view trending movies,
 search for your favorite ones, read about them,
