@@ -8,6 +8,7 @@ their TMDb rating.
 ##### Tech Stack
 
 **React**\
+**styled components**\
 [TMDB API](https://www.themoviedb.org/documentation/api)
 
 ### Sneak Peek
