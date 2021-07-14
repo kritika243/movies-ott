@@ -9,3 +9,7 @@ their TMDb rating.
 
 **React**\
 [TMDB API](https://www.themoviedb.org/documentation/api)
+
+### Sneak Peek
+
+![](https://github.com/kritika243/movies-ott/blob/main/public/demo.gif)
